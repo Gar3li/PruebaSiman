@@ -4,4 +4,5 @@ using PruebaSiman;
 Console.WriteLine("Ejercicios");
 
 
-Ejercicio1.compararmatricez();
+//Ejercicio1.compararmatricez();
+Ejercicio2.sumarmatricez();
