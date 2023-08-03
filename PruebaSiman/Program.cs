@@ -6,4 +6,5 @@ Console.WriteLine("Ejercicios");
 
 //Ejercicio1.compararmatricez();
 //Ejercicio2.sumarmatricez();
-Ejercicio3.ascendente();
+//Ejercicio3.ascendente();
+Ejercicio4.sumar4x4();
